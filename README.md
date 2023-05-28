@@ -42,6 +42,4 @@ code
 | Google Account Credentials| [/identity/protocols/oauth2/web-server#exchange-authorization-code][PlIa] |
 
 
-[PlDb]: <https://developers.google.com/identity/protocols/oauth2/web-server>
-[PlGh]: <https://developers.google.com/calendar/api/v3/reference>
-[PlIa]: <https://developers.google.com/identity/protocols/oauth2/web-server#exchange-authorization-codee>
+
